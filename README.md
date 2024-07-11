@@ -1,8 +1,7 @@
 # End-to-end-Medical-Chatbot
-Desenvolvimento end-to-end de um chatbot médico usando Llama2
+Desenvolvendo aplicação end-to-end de um chatbot médico usando Llama2
 
 ## Passos para iniciar o projeto
-
 
 ## Iniciando o ambiente virtual mchatbot com versão Python 3.8
 ```zsh
@@ -19,6 +18,8 @@ conda activate mchatbot
 pip install -r requirements.txt
 ```
 
-## Criando pasta model
+## Criando a pasta "model"
 1. Criar a pasta "model"
 2. Inserir arquivo instruction.txt 
+
+## Criando a pasta "data"
