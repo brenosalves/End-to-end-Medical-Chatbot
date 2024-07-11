@@ -26,3 +26,8 @@ pip install -r requirements.txt
 ## Pasta "data"
 1. Criar a pasta "data"
 2. Adicionar o arquivo Medical_book.pdf
+
+## Pinecone
+1. Criar conta na Pinecone
+2. Copiar Key Value
+3. Criar index na dimensão do vetor encontrado em https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
