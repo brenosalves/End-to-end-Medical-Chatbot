@@ -1,5 +1,5 @@
 # End-to-end-Medical-Chatbot
-Desenvolvimento end-to-end de um chatbot médico
+Desenvolvimento end-to-end de um chatbot médico usando Llama2
 
 ## Passos para iniciar o projeto
 
@@ -14,3 +14,7 @@ conda create -n mchatbot python=3.8 -y
 conda activate mchatbot
 ```
 
+## Instalando as bibliotecas
+```zsh
+pip install -r requirements.txt
+```
