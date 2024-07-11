@@ -1,10 +1,10 @@
 # End-to-end-Medical-Chatbot
-Developing end-to-end medical chatbot
+Desenvolvimento end-to-end de um chatbot médico
 
 ## Passos para iniciar o projeto
 
 
-## Iniciando o ambiente virtual mchatbot com versão Pythpon 3.8
+## Iniciando o ambiente virtual mchatbot com versão Python 3.8
 ```zsh
 conda create -n mchatbot python=3.8 -y
 ```
