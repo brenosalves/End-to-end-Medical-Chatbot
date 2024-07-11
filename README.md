@@ -18,8 +18,11 @@ conda activate mchatbot
 pip install -r requirements.txt
 ```
 
-## Criando a pasta "model"
+## Pasta "model"
 1. Criar a pasta "model"
-2. Inserir arquivo instruction.txt 
+2. Adicionar arquivo instruction.txt
+3. Fazer o download do modelo llama2 e adicionar ao git.ignore
 
-## Criando a pasta "data"
+## Pasta "data"
+1. Criar a pasta "data"
+2. Adicionar o arquivo Medical_book.pdf
