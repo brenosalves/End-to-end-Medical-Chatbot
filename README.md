@@ -19,5 +19,6 @@ conda activate mchatbot
 pip install -r requirements.txt
 ```
 
-#Criar a pasta "model"
-1 - Inserir arquivo instruction.txt 
+## Criando pasta model
+1. Criar a pasta "model"
+2. Inserir arquivo instruction.txt 
